@@ -1,0 +1,1 @@
+curl -X GET "https://api.the-odds-api.com/v4/sports/americanfootball_ncaaf/odds/?apiKey=YOUR_API_KEY&regions=us&markets=h2h,spreads,totals&oddsFormat=american&dateFormat=iso&commenceTimeFrom=2024-08-30T00:00:00Z&commenceTimeTo=2024-08-30T23:59:59Z" -o ncaaf_odds_daily.json
